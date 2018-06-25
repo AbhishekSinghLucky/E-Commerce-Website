@@ -12,5 +12,5 @@ if($conn)
 {
 $sql = mysqli_select_db($conn,'ecom');
 }
-
+//checking the github desktop
 ?>   
