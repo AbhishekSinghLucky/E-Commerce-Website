@@ -1,2 +1,3 @@
-# E-Commerce-Website
-Basic E-Commerce Website 
+This is the basic E-Commerce Website
+Languages Involved: PHP, JS, HTML, CSS, SQL,AJAX. 
+This website is non responsive.
